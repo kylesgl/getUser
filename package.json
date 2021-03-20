@@ -9,6 +9,9 @@
   "author": "kylesgl",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-terser": "^2.0.1",
     "netlify-cli": "^3.13.4"
   }
 }
